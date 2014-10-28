@@ -63,6 +63,7 @@ body {
   transition: all 0.5s;
 }
 .general .content.revealed {
+  color: #808080;
   -webkit-filter: blur(8px);
 }
 .general .content .indent {
